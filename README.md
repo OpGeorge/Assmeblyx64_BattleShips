@@ -1,7 +1,7 @@
 # Assmeblyx86_BattleShips
 
 ## Description
-This project is done in the 1st year at Technical University of Cluj-Napoca, as part of Assembly Language Programming course.
+This project was done in the 1st year at Technical University of Cluj-Napoca, as part of Assembly Language Programming course.
 <br/>
 This project was entirely my own, and I continue to showcase it as part of my portfolio, as the assignment required each student to select and work on a unique topic individually.
 
